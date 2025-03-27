@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="newDayButtonText">+ День тренировок</string>
+    <string name="newWeekButtonText">+ Неделя тренировок</string>
+    <string name="newRepeatButtonText">+ Повторение</string>
+</resources>

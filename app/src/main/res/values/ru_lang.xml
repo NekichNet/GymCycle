@@ -3,4 +3,6 @@
     <string name="newDayButtonText">+ День тренировок</string>
     <string name="newWeekButtonText">+ Неделя тренировок</string>
     <string name="newRepeatButtonText">+ Повторение</string>
+    <string name="repeatInputText">Частота</string>
+    <string name="everyLabel">Каждые</string>
 </resources>

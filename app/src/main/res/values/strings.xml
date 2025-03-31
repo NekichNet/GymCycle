@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GymCycle</string>
+    <string name="dayTitleInputText">Наименование</string>
+    <string name="dayDescriptionInputText">Полное описание</string>
 </resources>

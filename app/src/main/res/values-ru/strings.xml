@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="newDayButtonText">+ День тренировок</string>
+    <string name="newWeekButtonText">+ Неделя тренировок</string>
+    <string name="newRepeatButtonText">+ Повторение</string>
+    <string name="repeatInputText">Частота</string>
+    <string name="everyLabel">Каждые</string>
+    <string name="newExerciseButtonText">+ Упражнение</string>
+    <string name="save">Сохранить</string>
+    <string name="dayTitleInputText">Наименование</string>
+    <string name="dayDescriptionInputText">Полное описание</string>
+    <string name="newDayButtonText">+ День тренировок</string>
+    <string name="newDayButtonText">+ День тренировок</string>
+    <string name="newDayButtonText">+ День тренировок</string>
+    <string name="newDayButtonText">+ День тренировок</string>
+    <string name="newDayButtonText">+ День тренировок</string>
+</resources>
